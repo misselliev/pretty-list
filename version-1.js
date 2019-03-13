@@ -1,4 +1,13 @@
-//Fullfiling requirements with just Arrays
+/*Fullfiling requirements with just Arrays
+
+Requirements:
+* It should have a place to store todos
+* It  should have a place to display todos
+* It should have a way to add todos
+* It should have a way to change todos
+* It should have a way to delete todos
+
+*/
 
 //Storing
 var todos=['item 1', 'item 2', 'item 3']
