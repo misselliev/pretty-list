@@ -9,6 +9,5 @@ You can visit this project live [here]() /to be updated
 ## About
 
 You can reach me at: 
- - [Github](https://github.com/misselliev/)
  - [Twitter](https://twitter.com/miss_elliev/)
 
